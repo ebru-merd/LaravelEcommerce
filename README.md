@@ -15,7 +15,10 @@ Projeyi indirip çalıştırmak için aşağıda verilen adımları izlemeniz ge
 1.Xampp Control indirin.<br>
 2.htdocs dosyasının içerisine projeyi koyun.<br>
 3.htdocs içerisinde yer alan projeye cmd ile giderek <b>php artisan serve </b> yazarak projeyi çalıştırın.<br>
-4.Xampp Control de Mysql ve Apachenin çalışır durumda olduğundan emin olun.<br>
+4.Xampp Control de Mysql ve Apachenin çalışır durumda olduğundan emin olun.<br<br><br>
+
+
+[Web Programlama Proje Raporu.docx.pdf](https://github.com/ebru-merd/LaravelEcommerce/files/11415857/Web.Programlama.Proje.Raporu.docx.pdf)<br><br>
 
 ![image](https://user-images.githubusercontent.com/74205476/236697552-255bc033-915b-49f4-a9bd-9bd362bcd665.png)<br>
 Admin Dashboard Ekranı <br>
